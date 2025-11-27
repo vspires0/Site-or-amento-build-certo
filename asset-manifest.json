@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Site-or-amento-build-certo/static/css/main.248342e4.css",
+    "main.js": "/Site-or-amento-build-certo/static/js/main.e17a6b3b.js",
+    "index.html": "/Site-or-amento-build-certo/index.html",
+    "main.248342e4.css.map": "/Site-or-amento-build-certo/static/css/main.248342e4.css.map",
+    "main.e17a6b3b.js.map": "/Site-or-amento-build-certo/static/js/main.e17a6b3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.248342e4.css",
+    "static/js/main.e17a6b3b.js"
+  ]
+}
